@@ -57,3 +57,59 @@
 //     `score of ${studentName3} is ${studentMarks3}. Percentage: ${percen3}% <br>`
 // )
 
+
+
+// Q10
+// var num1 = +prompt('Enter score of student 1')
+// var num2 = +prompt('Enter score of student 2')
+// var num3 = +prompt('Enter score of student 3')
+// var num4 = +prompt('Enter score of student 4')
+
+// var userNum = [num1, num2, num3, num4]
+// document.write('score of student :'+ userNum +'<br>')
+// document.write('ordered score of student :'+userNum.sort())
+
+
+// Q11
+// var cities = ['karachi', 'lahore', 'islamabad', 'quetta','peshawar']
+// document.write(` Cities list <br> ${cities} <br>`)
+// document.write(` Cities selected <br> ${cities[2]},${cities[3]}`)
+
+
+// Q12
+// var sent = ['This','is','my','cat']
+// document.write(`Array: <br> ${sent} <br>`)
+// sent = sent.join(` `)
+// document.write(`String: <br> ${sent}`)
+
+
+// Q13
+// var devices = ['keyboard','mouse','printer','monitor']
+// document.write(`Devices: <br> ${devices} <br><br>`)
+// document.write(`out: <br> ${devices[0]} <br>`)
+// document.write(`out: <br> ${devices[1]} <br>`)
+// document.write(`out: <br> ${devices[2]} <br>`)
+// document.write(`out: <br> ${devices[3]} <br>`)
+
+
+// Q14
+// var devices = ['keyboard','mouse','printer','monitor']
+// document.write(`Devices: <br> ${devices} <br><br>`)
+// document.write(`out: <br> ${devices[3]} <br>`)
+// document.write(`out: <br> ${devices[2]} <br>`)
+// document.write(`out: <br> ${devices[1]} <br>`)
+// document.write(`out: <br> ${devices[0]} <br>`)
+
+
+
+// Q15
+// var options = ['apple','samsung','motorola','sony','haier']
+// document.write(`
+//     <select>
+//     <option>${options[0]}</option>
+//     <option>${options[1]}</option>
+//     <option>${options[2]}</option>
+//     <option>${options[3]}</option>
+//     <option>${options[4]}</option>
+//     <</select>
+// `)
